@@ -1,9 +1,5 @@
 # 🛡️ Admin Service
 
-![Go](https://img.shields.io/badge/Go-1.24.6-00ADD8?style=for-the-badge\&logo=go)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge\&logo=postgresql)
-![GORM](https://img.shields.io/badge/GORM-B93527?style=for-the-badge)
-
 Service สำหรับจัดการระบบหลังบ้าน (Admin Panel) ทั้งหมดของโปรเจกต์ **GameGear E-commerce**
 
 ---
