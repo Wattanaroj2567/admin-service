@@ -99,13 +99,6 @@ git clone https://github.com/Wattanaroj2567/admin-service.git
 cd admin-service
 ```
 
-### Step 1 (Alt) — Direct Branch Clone สำหรับผู้พัฒนาให้เริ่มต้นที่นี่เท่านั้น
-คำสั่งนี้จะ Clone โปรเจกต์ทั้งหมดมาที่เครื่องของคุณ โดยจะได้ Branch develop เป็นค่าเริ่มต้น
-```bash
-git clone -b develop https://github.com/Wattanaroj2567/ad-service.git
-cd admin-service
-```
-
 ### Step 2 — Install Dependencies
 
 ```bash
